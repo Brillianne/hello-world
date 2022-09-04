@@ -32,7 +32,7 @@
   </div>
 
    <h1>Add Two Thankyou, Happy Learning </h1>
-  <h2>Add Two Thankyou, Happy Learning </h2>
+  <h2>I'm currently learning DevOps </h2>
 
   
 </form>
